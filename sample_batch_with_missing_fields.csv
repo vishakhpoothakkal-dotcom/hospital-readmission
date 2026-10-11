@@ -1,0 +1,11 @@
+patient_id,age,gender,admission_type,admission_source,length_of_stay,num_inpatient_visits_prior_year,num_emergency_visits_prior_year,num_outpatient_visits_prior_year,primary_diagnosis,charlson_comorbidity_index,num_medications,num_lab_procedures,hemoglobin_g_dl,creatinine_mg_dl,blood_glucose_mg_dl,systolic_bp,oxygen_saturation,high_risk_medication,discharge_disposition
+PT-111950,80,Male,Emergency,Clinic Referral,2,3,0,3,Cardiology (Heart Failure/AMI),5,10,48,12.2,2.37,135.0,124,98,No,Long-Term Care Hospital
+PT-111951,27,Female,Elective,Physician Referral,9,6,1,0,Pulmonology (COPD/Pneumonia),3,16,39,13.5,1.33,,137,92,Yes,Skilled Nursing Facility (SNF)
+PT-111952,57,Male,Elective,Physician Referral,7,0,0,1,Pulmonology (COPD/Pneumonia),5,21,46,11.8,2.29,91.0,127,98,No,Home (Routine)
+PT-111953,21,Female,Emergency,Emergency Department,8,5,3,2,Pulmonology (COPD/Pneumonia),3,14,42,,1.58,174.0,142,99,No,Home (Routine)
+PT-111954,51,Male,Elective,Transfer from Hospital,1,0,0,0,Cardiology (Heart Failure/AMI),1,7,43,10.3,0.72,110.0,126,95,Yes,Home Health Service
+PT-111955,56,Male,Emergency,Physician Referral,3,1,0,1,Pulmonology (COPD/Pneumonia),8,11,42,16.8,0.47,99.0,111,97,Yes,Home Health Service
+PT-111956,82,Female,Urgent,Clinic Referral,7,2,0,3,,2,10,56,12.7,2.13,186.0,160,95,No,Home (Routine)
+PT-111957,68,Male,Emergency,Emergency Department,3,0,3,2,Gastroenterology,0,10,52,13.6,2.17,79.0,134,94,No,Home (Routine)
+PT-111958,51,Female,Emergency,Physician Referral,7,0,0,1,Pulmonology (COPD/Pneumonia),2,13,75,17.2,0.4,291.0,131,97,No,Home Health Service
+PT-111959,77,Male,Emergency,Emergency Department,8,0,2,1,Cardiology (Heart Failure/AMI),4,18,42,12.2,0.52,134.0,137,96,No,Home (Routine)

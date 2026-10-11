@@ -1,0 +1,51 @@
+patient_id,age,gender,admission_type,admission_source,length_of_stay,num_inpatient_visits_prior_year,num_emergency_visits_prior_year,num_outpatient_visits_prior_year,primary_diagnosis,charlson_comorbidity_index,num_medications,num_lab_procedures,hemoglobin_g_dl,creatinine_mg_dl,blood_glucose_mg_dl,systolic_bp,oxygen_saturation,high_risk_medication,discharge_disposition
+PT-111950,80,Male,Emergency,Clinic Referral,2,3,0,3,Cardiology (Heart Failure/AMI),5,10,48,12.2,2.37,135,124,98,No,Long-Term Care Hospital
+PT-111951,27,Female,Elective,Physician Referral,9,6,1,0,Pulmonology (COPD/Pneumonia),3,16,39,13.5,1.33,84,137,92,Yes,Skilled Nursing Facility (SNF)
+PT-111952,57,Male,Elective,Physician Referral,7,0,0,1,Pulmonology (COPD/Pneumonia),5,21,46,11.8,2.29,91,127,98,No,Home (Routine)
+PT-111953,21,Female,Emergency,Emergency Department,8,5,3,2,Pulmonology (COPD/Pneumonia),3,14,42,13.0,1.58,174,142,99,No,Home (Routine)
+PT-111954,51,Male,Elective,Transfer from Hospital,1,0,0,0,Cardiology (Heart Failure/AMI),1,7,43,10.3,0.72,110,126,95,Yes,Home Health Service
+PT-111955,56,Male,Emergency,Physician Referral,3,1,0,1,Pulmonology (COPD/Pneumonia),8,11,42,16.8,0.47,99,111,97,Yes,Home Health Service
+PT-111956,82,Female,Urgent,Clinic Referral,7,2,0,3,Gastroenterology,2,10,56,12.7,2.13,186,160,95,No,Home (Routine)
+PT-111957,68,Male,Emergency,Emergency Department,3,0,3,2,Gastroenterology,0,10,52,13.6,2.17,79,134,94,No,Home (Routine)
+PT-111958,51,Female,Emergency,Physician Referral,7,0,0,1,Pulmonology (COPD/Pneumonia),2,13,75,17.2,0.4,291,131,97,No,Home Health Service
+PT-111959,77,Male,Emergency,Emergency Department,8,0,2,1,Cardiology (Heart Failure/AMI),4,18,42,12.2,0.52,134,137,96,No,Home (Routine)
+PT-111960,63,Female,Emergency,Emergency Department,3,3,0,0,Endocrinology (Diabetes),1,14,39,12.4,0.67,80,131,94,No,Skilled Nursing Facility (SNF)
+PT-111961,63,Male,Emergency,Emergency Department,5,4,0,5,Endocrinology (Diabetes),1,8,26,14.4,0.84,130,108,95,Yes,Home (Routine)
+PT-111962,46,Male,Emergency,Emergency Department,4,0,1,7,Gastroenterology,1,23,53,15.0,0.4,133,126,99,No,Home (Routine)
+PT-111963,49,Female,Elective,Emergency Department,9,1,0,0,Gastroenterology,3,19,50,8.3,0.72,74,117,95,Yes,Home Health Service
+PT-111964,51,Male,Elective,Physician Referral,4,0,2,0,Neurology (Stroke/TIA),2,23,15,11.4,2.18,179,116,96,No,Home (Routine)
+PT-111965,63,Male,Elective,Emergency Department,2,3,0,0,Gastroenterology,1,11,63,12.7,1.96,145,131,100,Yes,Home (Routine)
+PT-111966,64,Female,Emergency,Emergency Department,7,3,1,0,Pulmonology (COPD/Pneumonia),1,4,53,11.1,1.53,165,129,89,Yes,Skilled Nursing Facility (SNF)
+PT-111967,84,Female,Emergency,Emergency Department,6,2,1,2,Endocrinology (Diabetes),4,6,27,14.6,3.07,201,111,93,No,Home (Routine)
+PT-111968,68,Male,Emergency,Physician Referral,3,3,5,1,Oncology,1,11,24,13.5,1.95,101,153,98,Yes,Home Health Service
+PT-111969,25,Female,Emergency,Emergency Department,3,1,0,0,Endocrinology (Diabetes),1,12,30,11.5,0.4,143,120,96,No,Home Health Service
+PT-111970,66,Female,Emergency,Physician Referral,3,0,0,1,Oncology,2,14,66,11.8,0.47,138,133,92,No,Home (Routine)
+PT-111971,42,Male,Emergency,Emergency Department,4,4,0,1,Oncology,4,12,56,14.0,0.46,164,144,97,No,Home (Routine)
+PT-111972,49,Female,Emergency,Emergency Department,9,0,0,0,Cardiology (Heart Failure/AMI),0,8,42,12.7,2.44,171,124,100,No,Home (Routine)
+PT-111973,51,Female,Elective,Physician Referral,10,0,0,0,Oncology,4,22,37,11.6,0.92,93,133,97,No,Skilled Nursing Facility (SNF)
+PT-111974,53,Male,Urgent,Emergency Department,3,0,1,1,Cardiology (Heart Failure/AMI),0,21,32,12.9,2.2,180,132,95,No,Skilled Nursing Facility (SNF)
+PT-111975,43,Male,Emergency,Clinic Referral,6,1,0,3,Pulmonology (COPD/Pneumonia),2,13,25,13.8,0.68,160,132,98,Yes,Home (Routine)
+PT-111976,65,Male,Urgent,Clinic Referral,5,0,0,0,Neurology (Stroke/TIA),0,14,54,13.2,1.07,151,146,100,Yes,Long-Term Care Hospital
+PT-111977,43,Female,Emergency,Physician Referral,4,2,0,0,Cardiology (Heart Failure/AMI),4,21,62,12.0,2.19,130,127,90,Yes,Skilled Nursing Facility (SNF)
+PT-111978,67,Male,Emergency,Emergency Department,3,0,1,3,Pulmonology (COPD/Pneumonia),1,25,75,13.5,0.9,188,140,98,No,Home (Routine)
+PT-111979,94,Female,Emergency,Physician Referral,5,1,3,0,Cardiology (Heart Failure/AMI),2,14,54,14.5,1.26,208,105,97,Yes,Home (Routine)
+PT-111980,44,Female,Urgent,Physician Referral,2,0,1,0,Nephrology (Kidney Disease),3,6,16,11.6,1.3,186,143,100,Yes,Home Health Service
+PT-111981,59,Male,Emergency,Emergency Department,2,2,0,4,Gastroenterology,1,16,52,11.7,2.56,74,121,100,No,Skilled Nursing Facility (SNF)
+PT-111982,27,Female,Urgent,Emergency Department,4,0,1,1,Neurology (Stroke/TIA),2,1,23,13.3,0.63,234,103,94,No,Skilled Nursing Facility (SNF)
+PT-111983,58,Female,Emergency,Emergency Department,6,3,0,1,Endocrinology (Diabetes),2,18,55,11.6,0.4,179,137,94,Yes,Home (Routine)
+PT-111984,71,Male,Emergency,Emergency Department,10,0,1,6,Gastroenterology,3,17,42,11.8,1.04,123,125,95,Yes,Home (Routine)
+PT-111985,73,Female,Emergency,Physician Referral,3,1,0,2,Gastroenterology,3,16,59,12.7,1.57,176,129,94,No,Home Health Service
+PT-111986,64,Female,Urgent,Transfer from Hospital,6,1,0,4,Endocrinology (Diabetes),1,5,59,10.7,2.16,135,144,93,No,Long-Term Care Hospital
+PT-111987,75,Male,Emergency,Emergency Department,2,0,1,0,Gastroenterology,3,27,24,9.3,0.5,172,162,93,No,Home (Routine)
+PT-111988,95,Male,Urgent,Emergency Department,6,0,0,2,Oncology,4,7,39,16.1,0.54,225,181,92,Yes,Home (Routine)
+PT-111989,86,Male,Emergency,Emergency Department,5,0,1,1,Cardiology (Heart Failure/AMI),3,20,58,13.2,0.82,141,183,92,No,Home (Routine)
+PT-111990,55,Male,Emergency,Emergency Department,6,0,1,7,Oncology,4,8,24,13.1,3.91,203,118,94,No,Home Health Service
+PT-111991,42,Male,Urgent,Emergency Department,2,0,0,1,Cardiology (Heart Failure/AMI),2,14,60,17.7,0.4,130,156,97,Yes,Skilled Nursing Facility (SNF)
+PT-111992,57,Female,Emergency,Emergency Department,1,1,5,2,Pulmonology (COPD/Pneumonia),2,9,14,15.0,1.74,202,140,91,Yes,Home Health Service
+PT-111993,49,Female,Emergency,Emergency Department,7,1,0,0,Endocrinology (Diabetes),2,17,49,15.0,1.16,169,135,93,No,Skilled Nursing Facility (SNF)
+PT-111994,69,Male,Emergency,Physician Referral,12,1,5,0,Pulmonology (COPD/Pneumonia),2,19,45,13.9,2.75,164,157,91,No,Home Health Service
+PT-111995,46,Male,Urgent,Physician Referral,12,1,0,0,Gastroenterology,0,16,51,16.5,0.87,163,111,98,Yes,Home (Routine)
+PT-111996,61,Male,Urgent,Clinic Referral,1,0,0,1,Neurology (Stroke/TIA),1,10,36,12.2,0.56,118,142,92,Yes,Home (Routine)
+PT-111997,74,Male,Emergency,Physician Referral,9,0,1,4,Endocrinology (Diabetes),3,23,28,10.9,0.66,161,123,95,No,Skilled Nursing Facility (SNF)
+PT-111998,61,Male,Urgent,Emergency Department,8,1,0,4,Gastroenterology,3,2,18,9.5,0.61,110,149,94,Yes,Home (Routine)
+PT-111999,49,Male,Urgent,Physician Referral,14,0,0,0,Gastroenterology,2,19,58,13.3,2.16,173,143,97,No,Home (Routine)
